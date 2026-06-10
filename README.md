@@ -1,3 +1,5 @@
+# LINK: https://bus-varna.com/
+
 # varna-bus-radar-showcase
 
 # Varna Bus Radar 🚍
@@ -27,10 +29,14 @@ Currently under active development.
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc38ee50-36ea-45c5-be20-a0cb09d6128e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8f5da51-6b3f-4464-a101-f6d107259912" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9990c49a-2b3d-4de2-826d-c208642874ad" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e4be89a-64c5-426e-b91f-5027ae489e5c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd24f608-fc65-4c2c-a121-95411cc5d452" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e43a2e51-36a1-4215-b6bc-5b2699da2c34" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06f2ffc2-8932-4eea-bb2a-9626030fe80c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efcc5254-bfdc-4eeb-90a5-e612f2d0c09c" />
+
+
+
+
 
 
 
